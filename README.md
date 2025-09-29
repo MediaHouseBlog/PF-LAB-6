@@ -14,7 +14,7 @@ Used for Condition usage where you dont know that how many number of times the p
 
 while(condition)
 
-*** Do While Loop ***
+***Do While Loop***
 
 do
 {
