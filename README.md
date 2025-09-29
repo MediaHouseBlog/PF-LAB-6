@@ -9,4 +9,8 @@ for(Initialization ; condition ; incr/decr)
 
 Used for Condition usage where you dont know that how many number of times the program needs to be run.
 
+while(condition)
+
+
+
 
