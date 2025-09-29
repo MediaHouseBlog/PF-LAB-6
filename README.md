@@ -14,6 +14,12 @@ Used for Condition usage where you dont know that how many number of times the p
 
 while(condition)
 
+*** Do While Loop ***
 
+do
+{
+    things to be done
+}
+while(Condition)
 
-
+do while differentiates with while in a way that in do while the things are done at least once and then the condition is checked , in while condition is checked first then the things are run.  
